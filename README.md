@@ -27,7 +27,7 @@
   ---
 
   ### :man_technologist: About Me :
-  I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Argentina.
+  I am a Fullstack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Argentina.
   - :telescope: I am currently looking for a job where I can develop professionally and contribute with my knowledge and experience.
 
   - :zap: In my free time, I like to design and develop new projects to learn new technologies and delve into the ones I already know, I also love spending time with family, friends and playing basketball.
